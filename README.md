@@ -1,7 +1,7 @@
 # Employee-Payroll-Managemnet-System
 This project simulates an employee payroll system that allows the management of employee salary payments in addition to other features.  This project is written entirely in Java, but pulls data from an SQL database server.
 
-### Database Requirements
+## Database Requirements
 The application should be able to allow system administrator to manage the database base, add and change records, run reports…
 The database is used by employees and administrators. The database helps managing:
 
@@ -20,7 +20,7 @@ The database is used by employees and administrators. The database helps managin
 •	Each employee can have one or multiple dependents. Dependent has a name, SSN, relation to employee, dependent can get the health benefits like dental, vision and life insurance. The employee and dependent can have different or same benefits.
 
 
-### Administrators shall run reports that provides the following information:
+## Administrators shall run reports that provides the following information:
 •	A biweekly paycheck print that includes the employee ssn, income, all tax deduction (state, federal, social security, and Medicare), 401K deduction and insurance premium
 
 •	Create a W2 that include the employee SSN, its yearly earned income, all the deduction and extra earning i.e., bonus.
